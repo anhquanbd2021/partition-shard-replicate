@@ -1,0 +1,58 @@
+/* tokens.css — direction "row-ledger" (generated; do not hand-edit) */
+:root {
+  --color-bg: #f6f1e6;
+  --color-text: #2a2318;
+  --color-surface: #fffaf0;
+  --color-accent-fill: #7a4a10;
+  --color-accent-text: #fffaf0;
+  --color-on-accent: #fffaf0;
+  --accent-50: #fdf6e8;
+  --accent-100: #f9e9c6;
+  --accent-200: #f0d39a;
+  --accent-300: #e4b464;
+  --accent-400: #d1933a;
+  --accent-500: #b57520;
+  --accent-600: #945a18;
+  --accent-700: #7a4a10;
+  --accent-800: #553409;
+  --accent-900: #38210a;
+  --accent-950: #1f1206;
+  --danger-300: #eba197;
+  --danger-500: #bc3b26;
+  --danger-fill: #bc3b26;
+  --danger-text: #fff6f0;
+  --step-xs: 12px;
+  --step-sm: 14px;
+  --step-base: 16px;
+  --step-lg: 20px;
+  --step-xl: 28px;
+  --step-2xl: 40px;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 16px;
+  --font-heading: Sora, sans-serif;
+  --font-body: "Source Serif 4", Georgia, serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #17110a;
+    --color-text: #efe5d1;
+    --color-surface: #251c10;
+    --color-accent-fill: #e4b464;
+    --color-accent-text: #251c10;
+    --color-on-accent: #251c10;
+    --danger-fill: #dd6a54;
+    --danger-text: #2a0d06;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}
